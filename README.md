@@ -19,4 +19,4 @@ Author and founder of the MSBuild Application Whitelisting Bypass code: Casey Sm
 
 Powershell Host Code: Original from Microsoft (MSDN), modified by Cn33liz, Twitter: @Cneelis
 
-Amsi Bypass Oneliner (obfuscated with @danielhbohannon Invoke-Obfuscation): Matt Graeber, Twitter: @mattifestation
+Amsi Bypass in memory patch: Rasta-mouse, https://github.com/rasta-mouse/AmsiScanBufferBypass
